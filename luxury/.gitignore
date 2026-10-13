@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+backend/db.sqlite3
+backend/media/
+backend/staticfiles/
+# Node
+node_modules/
+frontend/.next/
+*.tsbuildinfo
+# Secrets
+.env
+.env.local
+infra/.env

@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+**/backend/db.sqlite3
+**/backend/media/
+**/backend/staticfiles/
+# Node
+node_modules/
+**/frontend/.next/
+*.tsbuildinfo
+.vercel
+# Secrets
+.env
+.env.local
+**/infra/.env
+# Mijoz materiallari (yozishma, xom rasmlar) — repoga kirmaydi
+**/materials/
